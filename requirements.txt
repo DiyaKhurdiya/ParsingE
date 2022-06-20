@@ -1,0 +1,6 @@
+Required Packages:
+1. Pandas
+2. Numpy
+3. nltk
+4. word_tokenize from nltk
+5. 
