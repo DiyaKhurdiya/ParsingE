@@ -5,3 +5,6 @@ Required Packages:
 4. word_tokenize from nltk
 5. nltk.download('stopwords')
 6. re (regex)
+7. matplotlib
+8. wordcloud
+9. sklearn
