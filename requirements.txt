@@ -4,3 +4,4 @@ Required Packages:
 3. nltk
 4. word_tokenize from nltk
 5. nltk.download('stopwords')
+6. re (regex)

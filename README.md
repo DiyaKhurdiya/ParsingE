@@ -9,4 +9,5 @@ Steps for Classification of the Enron Email dataset
      - Stemming/Lemmatization
      - Removing punctuation
 4. Extracting features using vectorization, converting text to numbers in the form of vectors
+    - Making 10 divisions
 5. Using classification algorithms to classify emails into N categories
